@@ -1,65 +1,6 @@
 {
    "data":[
       {
-         "post_id":"2423996",
-         "creator_id":548,
-         "owner_id":0,
-         "created_at":"Fri Sep 23 18:09:23 +0000 2011",
-         "geo":{
-            "type":"Point",
-            "coordinates":[
-               45.55822,
-               18.68579
-            ]
-         },
-         "name":"T-Centar",
-         "icon_url":"http://dl.dropbox.com/u/1028504/mockup_config/places_placeholder.png",
-         "info":"<br \/>",
-         "address":"Stepinčeva 8b",
-         "city":"Osijek",
-         "country":"Croatia",
-         "source":"Shoutem",
-         "primary_category":{
-            "post_id":2120,
-            "parent_category_id":0,
-            "name":"T-Mobile",
-            "icon_url":"http://dl.dropbox.com/u/1028504/mockup_config/places_placeholder.png",
-            "icon_url_hd":"",
-            "level":0,
-            "created_at":"Fri Sep 23 18:00:57 +0000 2011",
-            "modified_at":"Fri Sep 23 18:00:57 +0000 2011",
-            "categories":[
-
-            ]
-         },
-         "categories":[
-            {
-               "id":2120,
-               "parent_category_id":0,
-               "name":"T-Mobile",
-               "icon_url":"http://dl.dropbox.com/u/1028504/mockup_config/places_placeholder.png",
-               "icon_url_hd":"",
-               "level":0,
-               "created_at":"Fri Sep 23 18:00:57 +0000 2011",
-               "modified_at":"Fri Sep 23 18:00:57 +0000 2011",
-               "categories":[
-
-               ]
-            }
-         ],
-         "checkin_count":0,
-         "forward_count":0,
-         "checkin_time":"",
-         "chief_id":0,
-         "chief":null,
-         "promotions":[
-
-         ],
-         "events":[
-
-         ]
-      },
-      {
          "post_id":"2423995",
          "creator_id":548,
          "owner_id":0,
@@ -154,135 +95,6 @@
          ]
       },
       {
-         "post_id":"2424025",
-         "creator_id":163419,
-         "owner_id":163419,
-         "created_at":"Fri Sep 23 19:13:32 +0000 2011",
-         "geo":{
-            "type":"Point",
-            "coordinates":[
-               45.59126,
-               18.50454
-            ]
-         },
-         "name":"Caffe bar Cvrčak",
-         "icon_url":"http://dl.dropbox.com/u/1028504/mockup_config/places_placeholder.png",
-         "info":"",
-         "address":"Osječka 31",
-         "city":"Samatovci",
-         "country":"Hrvatska",
-         "source":"Unknown",
-         "primary_category":null,
-         "categories":[
-
-         ],
-         "checkin_count":0,
-         "forward_count":0,
-         "checkin_time":"",
-         "chief_id":0,
-         "chief":null,
-         "promotions":[
-
-         ],
-         "events":[
-
-         ]
-      },
-      {
-         "post_id":"2424226",
-         "creator_id":164279,
-         "owner_id":164279,
-         "created_at":"Tue Sep 27 07:23:00 +0000 2011",
-         "geo":{
-            "type":"Point",
-            "coordinates":[
-               45.76882,
-               18.59775
-            ]
-         },
-         "name":"Očna optika i optometrija VOX",
-         "icon_url":"http://dl.dropbox.com/u/1028504/mockup_config/places_placeholder.png",
-         "info":"",
-         "address":"Imre Nađa 2c",
-         "city":"Beli Manastir",
-         "country":"Hrvatska",
-         "source":"Unknown",
-         "primary_category":null,
-         "categories":[
-
-         ],
-         "checkin_count":0,
-         "forward_count":0,
-         "checkin_time":"",
-         "chief_id":0,
-         "chief":null,
-         "promotions":[
-
-         ],
-         "events":[
-
-         ]
-      },
-      {
-         "post_id":"2423997",
-         "creator_id":548,
-         "owner_id":0,
-         "created_at":"Fri Sep 23 18:10:15 +0000 2011",
-         "geo":{
-            "type":"Point",
-            "coordinates":[
-               43.51611,
-               16.47985
-            ]
-         },
-         "name":"T-Centar",
-         "icon_url":"http://dl.dropbox.com/u/1028504/mockup_config/places_placeholder.png",
-         "info":"<br \/>",
-         "address":"Vukovarska 207",
-         "city":"Split",
-         "country":"Croatia",
-         "source":"Shoutem",
-         "primary_category":{
-            "id":2120,
-            "parent_category_id":0,
-            "name":"T-Mobile",
-            "icon_url":"http://dl.dropbox.com/u/1028504/mockup_config/places_placeholder.png",
-            "icon_url_hd":"",
-            "level":0,
-            "created_at":"Fri Sep 23 18:00:57 +0000 2011",
-            "modified_at":"Fri Sep 23 18:00:57 +0000 2011",
-            "categories":[
-
-            ]
-         },
-         "categories":[
-            {
-               "id":2120,
-               "parent_category_id":0,
-               "name":"T-Mobile",
-               "icon_url":"http://dl.dropbox.com/u/1028504/mockup_config/places_placeholder.png",
-               "icon_url_hd":"",
-               "level":0,
-               "created_at":"Fri Sep 23 18:00:57 +0000 2011",
-               "modified_at":"Fri Sep 23 18:00:57 +0000 2011",
-               "categories":[
-
-               ]
-            }
-         ],
-         "checkin_count":0,
-         "forward_count":0,
-         "checkin_time":"",
-         "chief_id":0,
-         "chief":null,
-         "promotions":[
-
-         ],
-         "events":[
-
-         ]
-      },
-      {
          "post_id":"2423998",
          "creator_id":548,
          "owner_id":0,
@@ -342,76 +154,6 @@
          ]
       },
       {
-         "post_id":"2424123",
-         "creator_id":163839,
-         "owner_id":163839,
-         "created_at":"Sun Sep 25 10:59:24 +0000 2011",
-         "geo":{
-            "type":"Point",
-            "coordinates":[
-               43.72425,
-               15.79959
-            ]
-         },
-         "name":"HOTEL MAESTRAL",
-         "icon_url":"http://dl.dropbox.com/u/1028504/mockup_config/places_placeholder.png",
-         "info":"",
-         "address":"Rodina 1",
-         "city":"22233 Prvić Luka",
-         "country":"Hrvatska",
-         "source":"Unknown",
-         "primary_category":null,
-         "categories":[
-
-         ],
-         "checkin_count":0,
-         "forward_count":0,
-         "checkin_time":"",
-         "chief_id":0,
-         "chief":null,
-         "promotions":[
-
-         ],
-         "events":[
-
-         ]
-      },
-      {
-         "post_id":"2424057",
-         "creator_id":163534,
-         "owner_id":163534,
-         "created_at":"Sat Sep 24 06:48:58 +0000 2011",
-         "geo":{
-            "type":"Point",
-            "coordinates":[
-               43.79862,
-               15.64171
-            ]
-         },
-         "name":"\"Agathos\", legalizacija, upravljanje i posredovanje nekretninama",
-         "icon_url":"http://dl.dropbox.com/u/1028504/mockup_config/places_placeholder.png",
-         "info":"",
-         "address":"Uska ulica 1",
-         "city":"Tisno",
-         "country":"Hrvatska",
-         "source":"Unknown",
-         "primary_category":null,
-         "categories":[
-
-         ],
-         "checkin_count":0,
-         "forward_count":0,
-         "checkin_time":"",
-         "chief_id":0,
-         "chief":null,
-         "promotions":[
-
-         ],
-         "events":[
-
-         ]
-      },
-      {
          "post_id":"2424053",
          "creator_id":163490,
          "owner_id":163490,
@@ -428,41 +170,6 @@
          "info":"Ugradnja automatskog navodnjavanja\u000d\u000a20% popusta",
          "address":"put stanova 30",
          "city":"ZADAR",
-         "country":"Hrvatska",
-         "source":"Unknown",
-         "primary_category":null,
-         "categories":[
-
-         ],
-         "checkin_count":0,
-         "forward_count":0,
-         "checkin_time":"",
-         "chief_id":0,
-         "chief":null,
-         "promotions":[
-
-         ],
-         "events":[
-
-         ]
-      },
-      {
-         "post_id":"2423969",
-         "creator_id":163075,
-         "owner_id":163075,
-         "created_at":"Thu Sep 22 15:13:21 +0000 2011",
-         "geo":{
-            "type":"Point",
-            "coordinates":[
-               45.71556,
-               16.06918
-            ]
-         },
-         "name":"Pučko otvoreno učilište Velika Gorica",
-         "icon_url":"http://dl.dropbox.com/u/1028504/mockup_config/places_placeholder.png",
-         "info":"VG Info",
-         "address":"Zagrebačka 37",
-         "city":"Velika Gorica",
          "country":"Hrvatska",
          "source":"Unknown",
          "primary_category":null,
@@ -562,76 +269,6 @@
 
                ]
             }
-         ],
-         "checkin_count":0,
-         "forward_count":0,
-         "checkin_time":"",
-         "chief_id":0,
-         "chief":null,
-         "promotions":[
-
-         ],
-         "events":[
-
-         ]
-      },
-      {
-         "post_id":"2424186",
-         "creator_id":164065,
-         "owner_id":164065,
-         "created_at":"Mon Sep 26 07:53:00 +0000 2011",
-         "geo":{
-            "type":"Point",
-            "coordinates":[
-               45.81692,
-               16.00221
-            ]
-         },
-         "name":"Cvijet.hr",
-         "icon_url":"http://dl.dropbox.com/u/1028504/mockup_config/places_placeholder.png",
-         "info":"Cvjećarnica www.cvijet.hr\u000d\u000aDostava cvijeća, vjenčanja, aranžiranja prostora.",
-         "address":"Mašićeva 5a",
-         "city":"Zagreb",
-         "country":"Hrvatska",
-         "source":"Unknown",
-         "primary_category":null,
-         "categories":[
-
-         ],
-         "checkin_count":0,
-         "forward_count":0,
-         "checkin_time":"",
-         "chief_id":0,
-         "chief":null,
-         "promotions":[
-
-         ],
-         "events":[
-
-         ]
-      },
-      {
-         "post_id":"2424046",
-         "creator_id":163431,
-         "owner_id":163431,
-         "created_at":"Fri Sep 23 19:56:48 +0000 2011",
-         "geo":{
-            "type":"Point",
-            "coordinates":[
-               45.80159,
-               15.97356
-            ]
-         },
-         "name":"srednjaci",
-         "icon_url":"http://dl.dropbox.com/u/1028504/mockup_config/places_placeholder.png",
-         "info":"",
-         "address":"kikićeva 22",
-         "city":"zagreb",
-         "country":"Hrvatska",
-         "source":"Unknown",
-         "primary_category":null,
-         "categories":[
-
          ],
          "checkin_count":0,
          "forward_count":0,
@@ -844,8 +481,5 @@
 
          ]
       }
-   ],
-   "search":{
-      "searchUrl":"http://dl.dropbox.com/u/1028504/mockup_config/fake_search_results.json"
-   }
+   ]
 }

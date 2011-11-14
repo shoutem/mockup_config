@@ -413,6 +413,9 @@
          "dataSource":{
             "$ref":"DataSource:Lokacije"
          },
+         "search":{
+            "type":"Remote"
+         },
          "items":[
          {
             "type":"SimpleItem",

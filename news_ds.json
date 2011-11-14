@@ -1,0 +1,628 @@
+{
+   "data": [
+      {
+         "schema":"schema1",
+         "post_id": "+BJA26Z0yNPmt1dO6A5OOWhnpMACzcA2OgcMdGpXfXTt1KA0CpFbAA==|||j1BYR7MkB43XisbgxMTsbKV/5kOGdTo/sjVGboXfm40=",
+         "published_at": "Wed, 28 Sep 2011 13:49:35 +0000",
+         "author": "Matt Brian",
+         "author_id": 0,
+         "author_image_url": "",
+         "comments_count": 0,
+         "likes_count": 0,
+         "commentable": "denied",
+         "likable": "denied",
+         "liked": false,
+         "anonymous_contact_data_allowed": "yes",
+         "attachments": {
+            "images": [
+               {
+                  "type": "image",
+                  "id": "4c85c82d-744f-4bdd-9d47-4004d5405600",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/fire.jpeg",
+                  "width": 1024,
+                  "height": 768
+               },
+               {
+                  "type": "image",
+                  "id": "2c3fba62-ce17-42f2-af4b-f85dc8e03cbe",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/fire.jpeg",
+                  "width": 1024,
+                  "height": 768
+               },
+               {
+                  "type": "image",
+                  "id": "9d3d026f-3195-4957-9718-c966d58f92bf",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/fire-520x245.jpg",
+                  "width": 520,
+                  "height": 245
+               }
+            ],
+            "videos": [],
+            "audio": []
+         },
+         "title": "Amazon’s 7-inch Kindle Fire will be $199.99, WiFi-only and has no camera",
+         "summary": "We are updating, please refresh for updates. As is the case with nearly every modern-day gadget, Amazon’s new Kindle Fire tablet has hit the newswires early and details of what...",
+         "body": "<attachment id=\"9d3d026f-3195-4957-9718-c966d58f92bf\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><br /><p><strong>We are updating, please refresh for updates.<\/strong><\/p>\n<p>As is the case with nearly every modern-day gadget, Amazon’s new Kindle Fire tablet has hit the newswires early and details of what many believe will be a serious iPad competitor have come to light.<\/p>\n<p><a href=\"http://www.bloomberg.com/news/2011-09-28/amazon-unveils-199-kindle-fire-tablet.html?cmpid=bit\">According to Bloomberg<\/a>, the Kindle Fire will ship with the following features:<\/p>\n<blockquote><p>Doesn’t have an embedded camera or a microphone. The device offers Wi-Fi connectivity, though not 3G access, and comes with a 30-day free trial of Amazon Prime, the company’s $79-a-year membership service that includes streaming video and free two-day shipping.<\/p>\n<p>The Kindle Fire will have a 7-inch display and sell for $199, compared with $499 for Apple’s cheapest iPad, Amazon executives said. The device, a souped-up version of the Kindle electronic-book reader, will run on Google Inc.’s Android software, the Seattle-based company<\/p><\/blockquote>",
+         "link": "http://feedproxy.google.com/~r/TheNextWeb/~3/msHJkdnf4Ms/"
+      },
+      {
+         "schema":"schema1",
+         "post_id": "+BJA26Z0yNPmt1dO6A5OOWhnpMACzcA2OgcMdGpXfXTt1KA0CpFbAA==|||K7i9/Qd4g4d/masNTuUhEJ3jMhNXYB1vLB5L1sV17jw=",
+         "published_at": "Wed, 28 Sep 2011 12:47:51 +0000",
+         "author": "Matt Brian",
+         "author_id": 0,
+         "author_image_url": "",
+         "comments_count": 0,
+         "likes_count": 0,
+         "commentable": "denied",
+         "likable": "denied",
+         "liked": false,
+         "anonymous_contact_data_allowed": "yes",
+         "attachments": {
+            "images": [
+               {
+                  "type": "image",
+                  "id": "7069be9b-81f1-484e-b50b-212ce08dc8ee",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Samsung-booth-11.jpeg",
+                  "width": 580,
+                  "height": 363
+               },
+               {
+                  "type": "image",
+                  "id": "08d1c3c8-149e-4ee8-b8e1-eed9347889ce",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Samsung-booth-11.jpeg",
+                  "width": 580,
+                  "height": 363
+               },
+               {
+                  "type": "image",
+                  "id": "e7efe1c7-173c-4aef-b134-11a023da42c8",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Samsung-booth-11-520x245.jpg",
+                  "width": 520,
+                  "height": 245
+               }
+            ],
+            "videos": [],
+            "audio": []
+         },
+         "title": "Microsoft signs “its most important Android patent license to date” with Samsung",
+         "summary": "Microsoft has been successfully licensing its Linux patents as of late, signing agreements with some mid-to-large Android handset makers, but today the Redmond-based company has signed its “most important Android...",
+         "body": "<attachment id=\"e7efe1c7-173c-4aef-b134-11a023da42c8\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><br /><p>Microsoft has been successfully licensing its Linux patents as of late, signing agreements with some mid-to-large Android handset makers, but today the Redmond-based company has signed its “most important Android patent license to date”, agreeing terms with Samsung.<\/p>\n<p>Microsoft’s general counsel and executive vice president, Legal and Corporate Affairs <a href=\"https://twitter.com/#!/BradSmi\">Brad Smith tweeted<\/a> the news over a series of tweets, noting the deal with Samsung would not only see the company collect royalties on every Samsung smartphone and tablet running Android, it would also see “closer collaboration on Windows Phone”:<\/p>\n<blockquote><p>We’re announcing our most important Android patent license to date–with Samsung. Also closer collaboration on Windows Phone!<\/p>\n<p>Under today’s agreement, Microsoft will receive royalties for Samsung’s mobile phones and tablets running Android.<\/p>\n<p>Today’s agreement demonstrates we now have a clear path forward for resolving the industry’s mobile patent issues.<a href=\"http://search.twitter.com/search?q=%23clearpathforward\">#clearpathforward<\/a><\/p>\n<p>While we haven’t yet reached the beginning of the end of mobile patent issues, perhaps we have now reached the end of the beginning.<\/p><\/blockquote>\n<p>Microsoft followed up with a blog post on its <a href=\"http://blogs.technet.com/b/microsoft_on_the_issues/archive/2011/09/28/our-licensing-deal-with-samsung-how-ip-drives-innovation-and-collaboration.aspx\">Technet blog<\/a>, noting the agreement ”also gives both companies greater patent coverage relating to each other’s technologies, and opens the door to a deeper partnership in the development of new phones for the Windows Phone platform.”<\/p>\n<p>The company also takes the opportunity to take a swipe at Google, calling the search giant out for its complaints over the impact of patents on Android and software innovation:<\/p>\n<blockquote><p>We recognize that some businesses and commentators – Google chief among them – have complained about the potential impact of patents on Android and software innovation. To them, we say this: look at today’s announcement. If industry leaders such as Samsung and HTC can enter into these agreements, doesn’t this provide a clear path forward?<\/p><\/blockquote>\n<p>We hope this inspires a response from Google, which has already said that its rivals, including Microsoft, have looked to target the search giant.<\/p>\n<p>In July, <a href=\"http://thenextweb.com/microsoft/2011/07/06/microsoft-wants-samsung-to-pay-it-15-for-each-android-handset/\">we reported<\/a> that Microsoft was reportedly pressuring Samsung to enter a patent licensing agreement where the Korean-based vendor would pay $15 for each Android smartphone it makes. Samsung apparently looked to lower the payment to $10 per handset in exchange for an alliance which would have the company benefit from the creation of new Windows Phone devices.<\/p>\n<p>With the deal complete (terms still unknown), its sees Samsung not only join rivals HTC in an agreement, but would also add to deals signed with Acer, General Dynamics Itronix, Onkyo, Velocity Micro, ViewSonic and Wistron.<\/p>",
+         "link": "http://feedproxy.google.com/~r/TheNextWeb/~3/XIIW3bAmdag/"
+      },
+      {
+         "schema":"schema1",
+         "post_id": "+BJA26Z0yNPmt1dO6A5OOWhnpMACzcA2OgcMdGpXfXTt1KA0CpFbAA==|||KFL0fLDkCkfoGUYhIj4YlmbE1VN8VIqUwVTsG8NAdiE=",
+         "published_at": "Wed, 28 Sep 2011 12:11:03 +0000",
+         "author": "Paul Sawers",
+         "author_id": 0,
+         "author_image_url": "",
+         "comments_count": 0,
+         "likes_count": 0,
+         "commentable": "denied",
+         "likable": "denied",
+         "liked": false,
+         "anonymous_contact_data_allowed": "yes",
+         "attachments": {
+            "images": [
+               {
+                  "type": "image",
+                  "id": "f5f1d019-7e2e-4c05-abaf-7c3ba8ba1455",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Polaroids.gif",
+                  "width": 557,
+                  "height": 346
+               },
+               {
+                  "type": "image",
+                  "id": "85009b8b-9bcb-4624-b054-97d79b4db0ad",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/MidSlide1.jpg",
+                  "thumbnail_url": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/MidSlide1-150x150.jpg",
+                  "width": 500,
+                  "height": 341
+               },
+               {
+                  "type": "image",
+                  "id": "11c3fd2c-7138-4008-8cdf-f525ae3f145f",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/3dTransition.jpg",
+                  "thumbnail_url": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/3dTransition-150x150.jpg",
+                  "width": 522,
+                  "height": 343
+               },
+               {
+                  "type": "image",
+                  "id": "caf7c93b-075a-4973-ab3f-147071c09325",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Polaroids-520x245.gif",
+                  "width": 520,
+                  "height": 245
+               },
+               {
+                  "type": "image",
+                  "id": "e2601d73-d31e-4611-acd6-d5aaf53b177c",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/FS1-520x361.png",
+                  "width": 520,
+                  "height": 361
+               },
+               {
+                  "type": "image",
+                  "id": "b7e4d006-faf1-4440-bb1a-553926fc9a72",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Add-New-%E2%80%B9-Wordpress-Test-Site-%E2%80%94-WordPress_1317138487647-520x354.png",
+                  "width": 520,
+                  "height": 354
+               },
+               {
+                  "type": "image",
+                  "id": "c27a8b3a-15c3-418e-8af6-ce007062a081",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Add-New-%E2%80%B9-Wordpress-Test-Site-%E2%80%94-WordPress_1317138506057-520x345.png",
+                  "width": 520,
+                  "height": 345
+               },
+               {
+                  "type": "image",
+                  "id": "d70abae9-d8df-4553-8363-d273efb7c0bf",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/FluxSlider.png",
+                  "width": 510,
+                  "height": 66
+               },
+               {
+                  "type": "image",
+                  "id": "332228ed-7cae-495a-b8cb-921ddeb33bbd",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/3dTransition-520x341.jpg",
+                  "width": 520,
+                  "height": 341
+               }
+            ],
+            "videos": [],
+            "audio": []
+         },
+         "title": "Flux Slider: A neat 2D/3D slideshow tool with a WordPress plugin",
+         "summary": "If a picture is worth a thousand words, then Flux Slider has to be worth a few thousand at least. Flux Slider lets users create impressive 2D & 3D image...",
+         "body": "<attachment id=\"caf7c93b-075a-4973-ab3f-147071c09325\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><br /><p>If a picture is worth a thousand words, then Flux Slider has to be worth a few thousand at least.<\/p>\n<p>Flux Slider lets users create impressive 2D & 3D image slideshows. The tool itself is an HTML5/CSS3 based JavaScript library that is open source and can be used by anyone. You can access the source on <a href=\"https://github.com/joelambert/Flux-Slider\">GitHub<\/a>, along with instructions on how to install it.<\/p>\n<p>And for not-so-techie WordPress users, there’s a <a href=\"http://www.joelambert.co.uk/flux-wp/#download\">commercial plugin<\/a> which, along with the slider, offers an optimised, user-friendly interface that makes it really easy to create and configure slideshows on a blog.<\/p>\n<p>The plugin, however, isn’t free and the cost will vary depending on how many sites you need to deploy it to, starting at <a href=\"http://www.joelambert.co.uk/flux-wp/#download\">$15<\/a> for a single website.<\/p>\n<p>We gave the WordPress plugin a test-drive to see how easy it actually was to use. With the plugin installed, you start a new slideshow by configuring your desired settings. You can customize the height and width, add pagination controls, next/previous buttons and make it ‘autoplay’.<\/p>\n<p><a href=\"http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/FS1.png\"><attachment id=\"e2601d73-d31e-4611-acd6-d5aaf53b177c\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><\/a>You then upload however many images you want in the slideshow. I uploaded about 30 or so travel photos to test it out, though you can use featured images from existing blog posts too:<\/p>\n<p><a href=\"http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Add-New-%E2%80%B9-Wordpress-Test-Site-%E2%80%94-WordPress_1317138487647.png\"><attachment id=\"b7e4d006-faf1-4440-bb1a-553926fc9a72\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><\/a><\/p>\n<p>You then indicate which transitions you want to include in the slideshow. You can preview each effect before choosing, and simply tick/untick the box accordingly.<\/p>\n<p><a href=\"http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Add-New-%E2%80%B9-Wordpress-Test-Site-%E2%80%94-WordPress_1317138506057.png\"><attachment id=\"c27a8b3a-15c3-418e-8af6-ce007062a081\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><\/a><\/p>\n<p>Flux Slider includes 15 CSS3 transitions, 5 of which are 3D. I left all the transition boxes ticked to test this out. And I had to switch to Chrome from Firefox, as my version of Firefox (6.0.2) doesn’t support 3D transitions. This should be fixed in the latest incarnation of the browser though.<\/p>\n<p>You then click ‘Save’, and then launch a new blog post, where you’ll see this bar, and you select which slideshow you wish to insert into the blog post:<\/p>\n<p><a href=\"http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/FluxSlider.png\"><attachment id=\"d70abae9-d8df-4553-8363-d273efb7c0bf\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><\/a>I chose my travel photos slideshow, and previewed it. Here’s one of the 2D transitions:<\/p>\n<p><a href=\"http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/MidSlide1.jpg\"><attachment id=\"85009b8b-9bcb-4624-b054-97d79b4db0ad\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><\/a><a href=\"http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/MidSlide.jpg\"><br />\n<\/a>And here’s one of the pretty impressive 3D transitions:<\/p>\n<p><a href=\"http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/3dTransition.jpg\"><attachment id=\"332228ed-7cae-495a-b8cb-921ddeb33bbd\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><\/a><\/p>\n<p>Flux Slider was developed by <a href=\"http://blog.joelambert.co.uk/\">Joe Lambert<\/a>, a software developer based in Southampton, England. You can see some of the transitions for yourself over in his <a href=\"http://www.joelambert.co.uk/flux/transgallery.html\">Flux Slider Gallery<\/a>.<\/p>\n<h3>What does Flux Slider bring to the table?<\/h3>\n<p>Why would someone use Flux Slider over other sliders? “It uses CSS3 transforms/transitions which makes it much more performant than jQuery animate alternatives”, says Joe. “And its <a href=\"http://www.w3.org/\">Web standards<\/a> compliant too, which means it runs well on mobile devices, unlike jQuery”.<\/p>\n<p>I found the interface was very user-friendly and took next to no time to learn, something that Joe says he strived to do without compromising on flexibility. And given this is a premium plugin, Joe says he’s committed to supporting it and has established a forum to help customers when issues arise.<\/p>\n<p>“The key selling point seems to have been the transition effects”, says Joe. “Most of the comments I’ve had have been that these sorts of effects have not been seen on the Web before”.<\/p>\n<p>Although the 2D transitions are good, for me it was the 3D transitions that clinched the deal here. It’s worth checking out.<\/p>",
+         "link": "http://feedproxy.google.com/~r/TheNextWeb/~3/utz15Nw9jao/"
+      },
+      {
+         "schema":"schema1",
+         "post_id": "+BJA26Z0yNPmt1dO6A5OOWhnpMACzcA2OgcMdGpXfXTt1KA0CpFbAA==|||6J8+MoD/q+Bf6jBpCEHMgSCF6eVeN+BJ2+hF3/zNthY=",
+         "published_at": "Wed, 28 Sep 2011 10:59:43 +0000",
+         "author": "Aayush Arya",
+         "author_id": 0,
+         "author_image_url": "",
+         "comments_count": 0,
+         "likes_count": 0,
+         "commentable": "denied",
+         "likable": "denied",
+         "liked": false,
+         "anonymous_contact_data_allowed": "yes",
+         "attachments": {
+            "images": [
+               {
+                  "type": "image",
+                  "id": "cc6d17e0-6652-43df-a1d9-4ba52598e4fa",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/steve-jobs1.jpg",
+                  "width": 660,
+                  "height": 311
+               },
+               {
+                  "type": "image",
+                  "id": "a48ff8a6-e1b3-4fd5-935b-d2281ce98ee2",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/steve-jobs1.jpg",
+                  "width": 660,
+                  "height": 311
+               },
+               {
+                  "type": "image",
+                  "id": "06188555-7a09-477b-b19f-1e59cdefcc4e",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/steve-jobs1-520x245.jpg",
+                  "width": 520,
+                  "height": 245
+               },
+               {
+                  "type": "image",
+                  "id": "24ee8fe3-8e76-47b9-ab45-5b02b6e48767",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Clipboard-1-440x266.jpg",
+                  "thumbnail_url": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Clipboard-1-440x266-150x150.jpg",
+                  "width": 440,
+                  "height": 266
+               },
+               {
+                  "type": "image",
+                  "id": "327d4db2-aa1f-495f-8dbb-acd857c3ae89",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Clipboard-2-440x265.jpg",
+                  "thumbnail_url": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Clipboard-2-440x265-150x150.jpg",
+                  "width": 440,
+                  "height": 265
+               }
+            ],
+            "videos": [],
+            "audio": []
+         },
+         "title": "Apple’s rise from being nearly bankrupt to market leader under Steve Jobs",
+         "summary": "Asymco has released a couple of charts chronicling Apple’s rise from near bankruptcy to becoming the world’s most valuable company by market capitalisation in the 14 years that Steve Jobs...",
+         "body": "<attachment id=\"06188555-7a09-477b-b19f-1e59cdefcc4e\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><br /><p>Asymco has <a href=\"http://www.asymco.com/2011/09/28/visualizing-the-steve-jobs-era/\">released a couple of charts<\/a> chronicling Apple’s rise from near bankruptcy to becoming the world’s most valuable company by market capitalisation in the 14 years that Steve Jobs helmed the company.<\/p>\n<p>The charts compare the performance of the company’s stock against its peers in the technology industry. Going up against it are Microsoft, Google, Amazon, Samsung, HP, Lenovo, Nokia, HTC, Sony, RIM, LG, Dell, Acer, Motorola and formerly independent companies Compaq and Palm.<\/p>\n<p>The first chart shows the market capitalisation (in USD million) of these companies by calendar quarter between the years 1997 – 2011:<\/p>\n<p><a href=\"http://thenextweb.com/apple/2011/09/28/apple%e2%80%99s-rise-from-nearly-bankrupt-to-market-leader-under-steve-jobs/clipboard-1-440x266/\"><attachment id=\"24ee8fe3-8e76-47b9-ab45-5b02b6e48767\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><\/a><\/p>\n<p>The second one shows the combined market capitalisation of the same companies in the same time period:<\/p>\n<p><a href=\"http://thenextweb.com/apple/2011/09/28/apple%e2%80%99s-rise-from-nearly-bankrupt-to-market-leader-under-steve-jobs/clipboard-2-440x265/\"><attachment id=\"327d4db2-aa1f-495f-8dbb-acd857c3ae89\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><\/a><\/p>\n<p>The charts provide an interesting look at not only the phenomenal rise of Apple but also the steadily falling market valuation of Microsoft and the relatively recent coming to prominence of Amazon. Under Jobs, Apple gained 42% every year on average in stock valuation over the course of 14 years, which is “an unprecedented track record”. Today, its stock valuation is roughly equal to the market caps of Acer, Amazon, Dell, Hewlett-Packard, HTC, Lenovo, LG, Motorola Mobility, Nokia, RIM, Samsung and Sony <em>combined<\/em>!<\/p>\n<p>For a more detailed look at the graphs, <a href=\"http://www.asymco.com/2011/09/28/visualizing-the-steve-jobs-era/\">head on over to Asymco<\/a>.<\/p>",
+         "link": "http://feedproxy.google.com/~r/TheNextWeb/~3/h-GFD5rRMQs/"
+      },
+      {
+         "schema":"schema1",
+         "post_id": "+BJA26Z0yNPmt1dO6A5OOWhnpMACzcA2OgcMdGpXfXTt1KA0CpFbAA==|||s2MjVRI54INBOB3wnkmMDzRkMJdRsVPWmk17KLahXnQ=",
+         "published_at": "Wed, 28 Sep 2011 10:34:11 +0000",
+         "author": "Matt Brian",
+         "author_id": 0,
+         "author_image_url": "",
+         "comments_count": 0,
+         "likes_count": 0,
+         "commentable": "denied",
+         "likable": "denied",
+         "liked": false,
+         "anonymous_contact_data_allowed": "yes",
+         "attachments": {
+            "images": [
+               {
+                  "type": "image",
+                  "id": "710c5bc5-1f85-49a7-910e-117037de106d",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/5579342158_78829b3834_z1.jpeg",
+                  "width": 640,
+                  "height": 480
+               },
+               {
+                  "type": "image",
+                  "id": "a91e3a41-5bbc-4690-90cc-d424e8d46e98",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/5579342158_78829b3834_z1.jpeg",
+                  "width": 640,
+                  "height": 480
+               },
+               {
+                  "type": "image",
+                  "id": "621f65ba-35ee-450d-8114-8bf14b9f486a",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/5579342158_78829b3834_z1-520x245.jpg",
+                  "width": 520,
+                  "height": 245
+               }
+            ],
+            "videos": [],
+            "audio": []
+         },
+         "title": "RIM reveals what Android features the PlayBook won’t support. It’s not pretty.",
+         "summary": "Having announced official support for Android applications before it released its PlayBook tablet, RIM has started to detail the features that will be available when its compatibility layer goes live. If you...",
+         "body": "<attachment id=\"621f65ba-35ee-450d-8114-8bf14b9f486a\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><br /><p>Having announced <a href=\"http://thenextweb.com/mobile/2011/03/24/official-blackberry-playbook-will-support-android-apps/?awesm=tnw.to_17cDN&utm_content=twitter-publisher-main&utm_medium=tnw.to-twitter&utm_source=direct-tnw.to\">official support for Android applications<\/a> before it released its PlayBook tablet, RIM has started to detail the features that will be available when its compatibility layer goes live. If you were hoping for full-featured Android apps and services, think again.<\/p>\n<p>Speaking at DroidCon, as part of the Eastern European Mobile Monday Developer Summit in Romania, RIM engineers explained that whilst the BlackBerry Runtime for Android Apps will support a number of Android apps on the BlackBerry OS and future QNX platform, many key features will be missing.<\/p>\n<p><a href=\"http://www.thinq.co.uk/2011/9/28/rim-releases-list-android-playbook-no-nos/\">Thinq reports<\/a> the following features won’t be supported:<\/p>\n<blockquote><p>Android’s famed battery-sucking Live Wallpaper, SIP and SIP VoIP, anything built using the Native Development Kit, apps containing only App Widgets, and apps containing more than one activity tied to the Launcher.<\/p>\n<p>In addition, any packages which rely on Google Maps, in-app billing services, Android’s text-to-speech engine, or the cloud-to-device messaging system will all be rendered unusable under the company’s runtime system.<\/p><\/blockquote>\n<p>Whilst it can’t be expected that RIM would be able to fully support Android’s suite of features and development kits, the announcement that so many of them won’t make the jump across to the PlayBook will surely frustrate new and existing PlayBook owners who waited on the introduction Android apps to breathe new life into their tablet devices.<\/p>",
+         "link": "http://feedproxy.google.com/~r/TheNextWeb/~3/VOPRHaKHyCA/"
+      },
+      {
+         "schema":"schema1",
+         "post_id": "+BJA26Z0yNPmt1dO6A5OOWhnpMACzcA2OgcMdGpXfXTt1KA0CpFbAA==|||J3bYKKMZPa2ZjkWBPOMiULPbopbtlrd3sH5GH+fT4xI=",
+         "published_at": "Wed, 28 Sep 2011 10:27:46 +0000",
+         "author": "Martin Bryant",
+         "author_id": 0,
+         "author_image_url": "",
+         "comments_count": 0,
+         "likes_count": 0,
+         "commentable": "denied",
+         "likable": "denied",
+         "liked": false,
+         "anonymous_contact_data_allowed": "yes",
+         "attachments": {
+            "images": [
+               {
+                  "type": "image",
+                  "id": "0b290feb-a3e1-43d7-9926-dcb1478e066b",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/whip.jpg",
+                  "width": 660,
+                  "height": 276
+               },
+               {
+                  "type": "image",
+                  "id": "dd63b26c-94b8-4661-9c81-4b04f4ecf033",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/whip.jpg",
+                  "width": 660,
+                  "height": 276
+               },
+               {
+                  "type": "image",
+                  "id": "9329c961-aaca-48ff-8e84-dc335df70b32",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/whip-520x245.jpg",
+                  "width": 520,
+                  "height": 245
+               },
+               {
+                  "type": "image",
+                  "id": "e89f37f8-9eab-4fe9-805c-988df57d4688",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Screen-Shot-2011-09-28-at-10.57.46-520x348.png",
+                  "width": 520,
+                  "height": 348
+               },
+               {
+                  "type": "image",
+                  "id": "f2b25b06-6fef-4705-885a-f6b1b7a64efa",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Screen-Shot-2011-09-28-at-11.07.59-520x253.png",
+                  "width": 520,
+                  "height": 253
+               }
+            ],
+            "videos": [],
+            "audio": []
+         },
+         "title": "NewsWhip mines Twitter and Facebook to find hottest news right now",
+         "summary": "There are plenty of inventive ways to find news these days. From Flipboard‘s beautiful presentation of what your friends’ are sharing through to recent innovations from Google News. NewsWhip is...",
+         "body": "<attachment id=\"9329c961-aaca-48ff-8e84-dc335df70b32\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><br /><p>There are plenty of inventive ways to find news these days. From <a href=\"http://flipboard.com/\">Flipboard<\/a>‘s beautiful presentation of what your friends’ are sharing through to recent <a href=\"http://googlenewsblog.blogspot.com/2011/08/google-news-highlights-unique-content.html\">innovations<\/a> from Google News. <a href=\"http://www.newswhip.com/\">NewsWhip<\/a> is a new site from an Irish team that takes a dash of Flipboard’s approach and adds a pinch of <a href=\"http://tweetmeme.com/\">Tweetmeme<\/a> to surface important news stories based on current sharing trends on Twitter and Facebook.<\/p>\n<p>It works by categorising hundreds of thousands of news stories from across the Web, and monitoring Twitter and Facebook to see which have been shared the most in the past few minutes or hours. The result is like a ranking of what’s getting shared and tweeted the fastest.<\/p>\n<p>The NewsWhip team are pitching this as having a key difference to traditional news aggregators and social recommendation services, allowing as it does for users to get a “30,000 foot live view for what everyone is talking about.” As well as an overall list, it’s possible to narrow down to what’s popular in particular countries or in particular categories of news, such as Gossip, Culture, Tech, Business and Sports.<\/p>\n<p>While the graphic design of the site could definitely be a little more inspiring, it certainly does a good job or surfacing content of the ‘isn’t that interesting?’ variety – kind of like a passive version of Digg, where people are taking part without actively doing anything.<\/p>\n<p><a href=\"http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Screen-Shot-2011-09-28-at-10.57.46.png\"><attachment id=\"e89f37f8-9eab-4fe9-805c-988df57d4688\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><\/a><\/p>\n<h3>The story so far<\/h3>\n<p>“NewsWhip is the result of a pivot,” explains founder Paul Quigley. “Last year, I started an online Irish news site to try and shake up the Irish news scene. But we were drowned out by bigger, more established names. In our tone and attitude we had a unique product, but with 50,000 or so news stories published each day in English, no one cared. We were just adding to the noise.”<\/p>\n<p>“I reckoned the best value add for a news startup was helping to highlight the best quality stuff,” he continues. “There are great stories published all over the web every day, and there’s a real value in highlighting these, wherever they are published. But how do you separate the good stuff?”<\/p>\n<p>“I got curious about the Facebook and Twitter APIs and looked into using them. There’s over half a billion active social network users, deciding each day what, if anything, is worth sharing with their friends. When I realized you could build a system to track in real time which stories were getting the most traction on the networks, I was bowled over with the potential.”<\/p>\n<p>Teaming up with entrepreneur Andrew Mullaney, who had faced similar problems of working in a crowded market with the daily deals platform Easydeals. Together they created NewsWhip to measure the speed at which 50,000 different news stories and blog entries spread through social networks each day.<\/p>\n<p>The pair were accepted onto Irish accelerator <a href=\"http://www.ndrc.ie/launchpad/\">Launchpad<\/a> which puts startups on a three-month program and provides €20,000 of micro seed investment. Aside from that, NewsWhip is self-funded and investigating interest in investment from both Ireland and the US.<\/p>\n<p><a href=\"http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Screen-Shot-2011-09-28-at-11.07.59.png\"><attachment id=\"f2b25b06-6fef-4705-885a-f6b1b7a64efa\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><\/a><\/p>\n<h3>Where from here?<\/h3>\n<p>In the future, the team plans to introduce a daily alerts tool that will deliver people a daily summary of the most shared stories in any topic of interest. Mobile apps are also on the horizon, while work is in progress to hone the user experience of the site.<\/p>\n<p>“As a more long term product, we’re developing a social analytics tool for publishers,” explains Quigley. “Social networks are turning into a major distribution channel for publishers, and they need to understand their social network distribution in far more detail than the like count on their pages. We’re still considering the most useful approach for that and we’re talking to publishers about it. So ‘NewsWhip Pro’ is likely on the cards.”<\/p>\n<p>Making sense of the news content out there is a tough job and it’s a competitive market, but NewsWhip is taking its own path and is definitely worth keeping an eye on.<\/p>",
+         "link": "http://feedproxy.google.com/~r/TheNextWeb/~3/Bq7TZWrMbj0/"
+      },
+      {
+         "schema":"schema1",
+         "post_id": "+BJA26Z0yNPmt1dO6A5OOWhnpMACzcA2OgcMdGpXfXTt1KA0CpFbAA==|||beLoOaT9p7ZEbtQe5+o7iMT4kePzaYJ2CupRNcnwqAA=",
+         "published_at": "Wed, 28 Sep 2011 10:16:08 +0000",
+         "author": "Paul Sawers",
+         "author_id": 0,
+         "author_image_url": "",
+         "comments_count": 0,
+         "likes_count": 0,
+         "commentable": "denied",
+         "likable": "denied",
+         "liked": false,
+         "anonymous_contact_data_allowed": "yes",
+         "attachments": {
+            "images": [
+               {
+                  "type": "image",
+                  "id": "f028d687-f2d3-41ce-9653-0ca423913b71",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Cloud.jpg",
+                  "width": 640,
+                  "height": 382
+               },
+               {
+                  "type": "image",
+                  "id": "ef89db44-0398-47c4-8c93-4c5f945f2d9e",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Cloud.jpg",
+                  "width": 640,
+                  "height": 382
+               },
+               {
+                  "type": "image",
+                  "id": "244d04c7-2409-4e7b-9c52-d4221ba7a640",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Cloud-520x245.jpg",
+                  "width": 520,
+                  "height": 245
+               }
+            ],
+            "videos": [],
+            "audio": []
+         },
+         "title": "Virgin Media Business launches its “first true cloud product” for UK firms",
+         "summary": "Virgin Media Business, the enterprise arm of the UK telecoms and media group, is launching itself into the cloud market, and today it has announced its “first true cloud product”....",
+         "body": "<attachment id=\"244d04c7-2409-4e7b-9c52-d4221ba7a640\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><br /><p>Virgin Media Business, the enterprise arm of the UK telecoms and media group, is launching itself into the <a href=\"http://www.virginmediabusiness.co.uk/cloud\">cloud<\/a> market, and today it has announced its “first true cloud product”.<\/p>\n<p>The company says it’s attempting to “shake up the cloud computing market, with jargon-free advice, easy-to-use technology and straightforward support”, and its first product will be the Virtual Private Data Centre (VPDC), giving businesses virtual computing power, allowing them to test and develop applications without having to pay for hardware.<\/p>\n<p>Powered by US-based <a href=\"http://www.savvis.com/en-US/Pages/Home.aspx\">Savvis<\/a>, Virgin is looking to gain traction in an increasingly lucrative market. Virgin Media Business is making a direct challenge to its competitors, such as BT and Cable & Wireless, which it says have brought unnecessary confusion to the cloud.<\/p>\n<p>The VPDC service will allow IT managers to gain virtual computing power by designing and deploying their own private data center. They can have it up and running the same day and the set-up can then be easily modified, with changes being ready to go within 90 minutes.<\/p>\n<p>Mark Heraghty, Virgin Media Business’ Managing Director, says that companies are “craving some clarity and no-nonsense advice”. He says:<\/p>\n<blockquote><p>“Providing easy-to-use, simple cloud services that do exactly what they say they’ll do, really well, is a breath of fresh air. Most are already signed up to the benefits of the cloud, but constant jargon and complicated advice have created a real barrier to entry”.<\/p><\/blockquote>\n<p>Virgin’s cloud service will also be backed up by the country’s largest nationwide fibre-optic network, and in conjunction with what it calls its “straightforward advice and support”, Heraghty believes it will gain a strong foothold in the market. He says:<\/p>\n<blockquote><p>“We’re already working with organisations across the UK that don’t want to be constrained by their IT systems, systems that are no longer able to respond to the rapidly changing world we now find ourselves in. The dramatic rise in data volumes, the move to a remote workforce and the merging of business and consumer technology are all putting greater pressures on today’s businesses”.<\/p><\/blockquote>\n<p>Customers won’t be tied into minimum length contracts, and will be billed by the hour for however much “virtual power” they use.<\/p>\n<p>A typical use case for such a service could be a company looking to take its first steps into e-commerce. Given that users only pay for how much server capacity they use, as a company’s traffic grows online, its available resources are automatically scaled up to cater for the demand.<\/p>\n<p>You can read more about Virgin Media Business’ cloud services <a href=\"http://www.virginmediabusiness.co.uk/cloud\">here<\/a>.<\/p>",
+         "link": "http://feedproxy.google.com/~r/TheNextWeb/~3/TnzmCZfbN1k/"
+      },
+      {
+         "schema":"schema1",
+         "post_id": "+BJA26Z0yNPmt1dO6A5OOWhnpMACzcA2OgcMdGpXfXTt1KA0CpFbAA==|||sDfKIruiQdY8w/uVRlTsDwXbNxEgLHKBSGTXUXMpZNQ=",
+         "published_at": "Wed, 28 Sep 2011 09:43:33 +0000",
+         "author": "Aayush Arya",
+         "author_id": 0,
+         "author_image_url": "",
+         "comments_count": 0,
+         "likes_count": 0,
+         "commentable": "denied",
+         "likable": "denied",
+         "liked": false,
+         "anonymous_contact_data_allowed": "yes",
+         "attachments": {
+            "images": [
+               {
+                  "type": "image",
+                  "id": "9afb610a-cf24-4b65-bc2d-d72692a02f1e",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/kids-ipad.jpg",
+                  "width": 660,
+                  "height": 311
+               },
+               {
+                  "type": "image",
+                  "id": "8c708840-5be8-4f53-96b6-a0bf1bcb111e",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/kids-ipad.jpg",
+                  "width": 660,
+                  "height": 311
+               },
+               {
+                  "type": "image",
+                  "id": "ba35f46a-e66e-42fc-a3e0-3805f7629bf7",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/bobo-explores-light-2.jpg",
+                  "thumbnail_url": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/bobo-explores-light-2-150x150.jpg",
+                  "width": 1024,
+                  "height": 768
+               },
+               {
+                  "type": "image",
+                  "id": "8595da5a-97bf-42bf-b873-effde8c4ffe2",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/bobo-explores-light-3.jpg",
+                  "thumbnail_url": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/bobo-explores-light-3-150x150.jpg",
+                  "width": 1024,
+                  "height": 768
+               },
+               {
+                  "type": "image",
+                  "id": "878e0437-fabc-44b6-92f9-44cbde1909ee",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/bobo-explores-light-1.jpg",
+                  "thumbnail_url": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/bobo-explores-light-1-150x150.jpg",
+                  "width": 1024,
+                  "height": 768
+               },
+               {
+                  "type": "image",
+                  "id": "304a3e85-9796-4bd7-8366-621570b54127",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/bobo-explores-light-2-520x390.jpg",
+                  "width": 520,
+                  "height": 390
+               },
+               {
+                  "type": "image",
+                  "id": "e789f54c-1ffd-4c60-b592-904f4f844c6e",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/bobo-explores-light-3-520x390.jpg",
+                  "width": 520,
+                  "height": 390
+               },
+               {
+                  "type": "image",
+                  "id": "26918895-fdb9-4e1e-a668-fa161e1a2d10",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/bobo-explores-light-1-520x390.jpg",
+                  "width": 520,
+                  "height": 390
+               }
+            ],
+            "videos": [],
+            "audio": []
+         },
+         "title": "Bobo Explores Light is perhaps the most fun kids can have learning on the iPad",
+         "summary": "Every once in a while, we come across apps that we feel like we just have to share with our readership, and Bobo Explores Light is one of them. What...",
+         "body": "<p>Every once in a while, we come across apps that we feel like we just <em>have<\/em> to share with our readership, and <a href=\"http://www.gamecollage.com/\">Bobo Explores Light<\/a> is one of them. What is it? <a href=\"http://itunes.apple.com/us/app/bobo-explores-light/id463809859?mt=8\">It’s an interactive iPad app<\/a> that teaches your kids everything there is to know about light, and it does so in a fun, engaging way.<\/p>\n<p><attachment id=\"304a3e85-9796-4bd7-8366-621570b54127\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><\/p>\n<p>The app opens to a voiceover by a background narrator, who introduces you to your companion robot Bobo. It’s quirky and humorous and friendly and I’m sure will be loved by kids. The voice then goes on to familiarise you with the mechanics of the app, including how to interact with the robot and make use of its fancy 3D holographic projector. And then you get to go on a voyage through the solar system!<\/p>\n<p>From then on, you find out about the sun, lightning, fire, Thomas Edison, lasers, reflection, refraction, telescopes, colour, the human eye, glowing in the dark, bioluminescence, photosynthesis, the sunset and auroras. The app is very deep in terms of the sheer amount of content is bundles in and the navigation interface is fantastic. We’re sure kids will spend hours fiddling with just the various gears in the table of contents interface.<\/p>\n<p><a href=\"http://thenextweb.com/apps/2011/09/28/bobo-explores-light-is-perhaps-the-most-fun-kids-can-have-learning-on-the-ipad/bobo-explores-light-3/\"><attachment id=\"e789f54c-1ffd-4c60-b592-904f4f844c6e\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><\/a><\/p>\n<p>In each lesson, there is something for kids to do. They can tap on each planet in the solar system when finding out about the sun, chase Bobo with the laser, experiment with reflection between mirrors, watch a plant grow using photosynthesis and even create an entire beautiful garden by controlling sunlight. Throughout it all, Bobo cheerfully lets them play with it and occasionally chimes in to assist with something or show them a cool hologram. It is also generously interspersed with relevant bits of trivia, detailed explanations and instructive videos.<\/p>\n<p>We could go on, but the point is that Bobo Explores Light is just a really fun and well-crafted app that kids will enjoy. The depth of content it provides and the friendly interface make it more of a fun game than anything else. We think it’s a must-have for any family that has an 8 – 10 year old that likes science.<\/p>\n<p><em><a href=\"http://thenextweb.com/apps/2011/09/28/bobo-explores-light-is-perhaps-the-most-fun-kids-can-have-learning-on-the-ipad/bobo-explores-light-1/\"><attachment id=\"26918895-fdb9-4e1e-a668-fa161e1a2d10\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><\/a><\/em><\/p>\n<p><em>[Bobo Explores Light is <a href=\"http://itunes.apple.com/us/app/bobo-explores-light/id463809859?mt=8\">available on the App Store<\/a> for $6.99 and is compatible with any iPad running iOS 3.2 or later.]<\/em><\/p>",
+         "link": "http://feedproxy.google.com/~r/TheNextWeb/~3/fsA2tu8AvyM/"
+      },
+      {
+         "schema":"schema1",
+         "post_id": "+BJA26Z0yNPmt1dO6A5OOWhnpMACzcA2OgcMdGpXfXTt1KA0CpFbAA==|||OhL4G1Q9HFZhXM/xEmXlsP/FPgImqNopnJS+NzHWTRo=",
+         "published_at": "Wed, 28 Sep 2011 09:00:51 +0000",
+         "author": "Matt Brian",
+         "author_id": 0,
+         "author_image_url": "",
+         "comments_count": 0,
+         "likes_count": 0,
+         "commentable": "denied",
+         "likable": "denied",
+         "liked": false,
+         "anonymous_contact_data_allowed": "yes",
+         "attachments": {
+            "images": [
+               {
+                  "type": "image",
+                  "id": "0be7169b-bac2-4b62-ae15-1f726db4de4c",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/iphone-ipad-virtual-tour-520x245.jpeg",
+                  "width": 520,
+                  "height": 245
+               },
+               {
+                  "type": "image",
+                  "id": "7b6fd5a8-735b-4e85-ac55-f53d14da1825",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/iphone-ipad-virtual-tour-520x245.jpeg",
+                  "width": 520,
+                  "height": 245
+               },
+               {
+                  "type": "image",
+                  "id": "94ca6029-f4e0-49da-a8d6-7849bcdcca48",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/iphone-ipad-virtual-tour-520x245.jpeg",
+                  "width": 520,
+                  "height": 245
+               },
+               {
+                  "type": "image",
+                  "id": "6d2ff7d9-b996-45f2-954a-2196e66f0f8e",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/iphone-ipad-virtual-tour-520x245.jpeg",
+                  "width": 520,
+                  "height": 245
+               },
+               {
+                  "type": "image",
+                  "id": "dfc0f7cc-9fc4-42a4-bd08-af78915c2847",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/iphone-ipad-virtual-tour-520x245.jpeg",
+                  "width": 520,
+                  "height": 245
+               }
+            ],
+            "videos": [],
+            "audio": []
+         },
+         "title": "Samsung says Apple’s $8bn yearly spend stopped it pursuing patent fees",
+         "summary": "As part of its legal battle with smartphone and tablet rival Apple, Samsung reiterated its desire to seek a global sales ban on the upcoming iPhone 5, also admitting that...",
+         "body": "<attachment id=\"dfc0f7cc-9fc4-42a4-bd08-af78915c2847\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><br /><p>As part of its legal battle with smartphone and tablet rival Apple, Samsung reiterated its desire to seek a global sales ban on the upcoming iPhone 5, also admitting that it did not pursue patent licensing fees from the Cupertino-based company because of its huge investment in Samsung components, it was revealed on Wednesday.<\/p>\n<p><a href=\"http://english.yonhapnews.co.kr/business/2011/09/28/33/0501000000AEN20110928004100320F.HTML\">Yonhap News reports<\/a> that Samsung could “throw down the gauntlet” over Apple’s new iPhone, which is expected to be unveiled on October 4, according to a senior vice president who wished to remain anonymous, adding “it is true that Apple was free-riding on our mobile technologies.”<\/p>\n<p>It appears that Apple’s partnership with Samsung to manufacture its processors, fabricate its display panels and provide Flash and DRAM memory kept the Korean electronics giant from pursuing patent licensing fees on its wireless patents, technologies that the company has <a href=\"http://thenextweb.com/apple/2011/09/23/samsung-sues-apple-in-the-netherlands-over-iphone-and-ipad-3g-technology/\">filed a lawsuit to protect in The Netherlands<\/a>:<\/p>\n<blockquote><p>So far, Samsung has not asked Apple for licensing fees on the mobile patents in question because Apple contributes some 10 trillion won in revenues for Samsung every year, the executive said.<\/p><\/blockquote>\n<p>The executive added:<\/p>\n<blockquote><p>“But our response will take a turn. Apple is not engaged in the lawsuits to get cross-licensing deals.<\/p>\n<p>It’s a matter of pride for Apple. It probably wanted to give the impression that Samsung is copying (Apple).”<\/p><\/blockquote>",
+         "link": "http://feedproxy.google.com/~r/TheNextWeb/~3/y7w9k0SRUYA/"
+      },
+      {
+         "schema":"schema1",
+         "post_id": "+BJA26Z0yNPmt1dO6A5OOWhnpMACzcA2OgcMdGpXfXTt1KA0CpFbAA==|||Bz9OqetTTUAlpkywoku4KbCgVEh1/VoqDUXhjEmEnkM=",
+         "published_at": "Wed, 28 Sep 2011 07:55:01 +0000",
+         "author": "Aayush Arya",
+         "author_id": 0,
+         "author_image_url": "",
+         "comments_count": 0,
+         "likes_count": 0,
+         "commentable": "denied",
+         "likable": "denied",
+         "liked": false,
+         "anonymous_contact_data_allowed": "yes",
+         "attachments": {
+            "images": [
+               {
+                  "type": "image",
+                  "id": "9d099be6-0731-4284-8e74-5b272b9cfe7d",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/shutterstock_67023028.jpg",
+                  "width": 1000,
+                  "height": 664
+               },
+               {
+                  "type": "image",
+                  "id": "03958c03-f8b6-46a8-bf17-c18c3d7f8237",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/shutterstock_67023028.jpg",
+                  "width": 1000,
+                  "height": 664
+               },
+               {
+                  "type": "image",
+                  "id": "66da8b36-98e0-45c2-ae2e-3ad19fc0c194",
+                  "src": "http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/09/shutterstock_67023028-520x245.jpg",
+                  "width": 520,
+                  "height": 245
+               },
+               {
+                  "type": "image",
+                  "id": "641e27cc-89b5-4a6d-8205-8804dd9272a2",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/billbaba-1.jpg",
+                  "thumbnail_url": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/billbaba-1-150x150.jpg",
+                  "width": 520,
+                  "height": 180
+               },
+               {
+                  "type": "image",
+                  "id": "1b1e400b-7142-416e-a99d-b35244485cc2",
+                  "src": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/billbaba-2-520x333.png",
+                  "width": 520,
+                  "height": 333
+               }
+            ],
+            "videos": [
+               {
+                  "type": "video",
+                  "id": "86d7e82b-4469-453b-a868-71165d5e095b",
+                  "src": "http://www.youtube.com/v/4x7V7sBFOBE",
+                  "width": 500,
+                  "height": 375
+               }
+            ],
+            "audio": []
+         },
+         "title": "Keep track of your bills and expenses with BillBaba’s free Web App",
+         "summary": "Paying bills is one of those necessities of life that no one relishes and yet no one can avoid. BillBaba is a free web app by an Indian startup that...",
+         "body": "<attachment id=\"66da8b36-98e0-45c2-ae2e-3ad19fc0c194\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><br /><p>Paying bills is one of those necessities of life that no one relishes and yet no one can avoid. <a href=\"http://www.billbaba.com/\">BillBaba<\/a> is a free web app by an Indian startup that at least makes it easier for you to remember to pay them, so you don’t incur late payment fees and don’t have to take on the stress of keeping track of bill payments manually.<\/p>\n<p>BillBaba does double and triple duty as a way for you to keep track of your expenses and as a reminder system for money you have lent or borrowed. It lets you <a href=\"http://www.billbaba.com/users/sign_up\">sign up<\/a> using your Facebook account, so all it takes to get started are two mouse clicks. Once done, you can start adding reminders for credit card, electricity, telephone and other utility bills, along with a host of other choices.<\/p>\n<p><attachment id=\"641e27cc-89b5-4a6d-8205-8804dd9272a2\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><\/p>\n<p>When setting up a new reminder, you can specify the frequency with which it needs to be paid, whether it be daily, weekly, monthly, quarterly, yearly or once every couple of months, or choose the one-time option. Once you fill in all the fields, like description, due date and alert threshold (how many days in advance you need reminders to start from), you can have the app remind you via email, Facebook or text message, the last option being available only to residents of India.<\/p>\n<p>When you receive a reminder, you can reply to the email with the amount, as demonstrated in the video embedded below, or use the BillBaba Facebook or Web app to mark it as paid and stop receiving reminders until the next due date rolls around. A Bill Calendar also lets you take an at-a-glance look at the various due dates in any given month for all the bills you have added.<\/p>\n<p>The analysis features of the app help you figure out how much you are spending on all those bills with the help of graphs that show you spending over time, by bill or by category. A payments summary lets you keep tabs on all your payments that have been logged with the app.<\/p>\n<p><a href=\"http://thenextweb.com/apps/2011/09/28/keep-track-of-your-bills-and-expenses-with-billbaba%e2%80%99s-free-web-app/billbaba-2/\"><attachment id=\"1b1e400b-7142-416e-a99d-b35244485cc2\" type=\"image\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><\/a><\/p>\n<p>The app also has a goals feature that lets you define a goal with the amount of savings it requires. You can first calculate how much you need to save per month based on the total amount you need to save and how far into the future you see yourself making the purchase. The app factors in the annual rate of interest when making the calculations. Once you add a goal, BillBaba periodically reminds you to save for it and you can keep logging your savings towards the goal. When the hallowed moment arrives, it will send you an email congratulating you on achieving your goal.<\/p>\n<p>BillBaba also has a feature that allows you keep track of money you have lent or borrowed. Once you specify how much you have lent and to whom, it will send an email to that person asking them to register. If they do, BillBaba will then periodically remind them to pay you back your money (and it gives you control over how soon it should start doing that). Similarly, you can set up a reminder for yourself when you have borrowed money from someone else. You can adjust the amount later to account for part payments and mark the debt as settled once it is done.<\/p>\n<p><attachment id=\"86d7e82b-4469-453b-a868-71165d5e095b\" type=\"video\" xmlns=\"urn:xmlns:shoutem-com:cms:v1\"><\/attachment><\/p>\n<p>BillBaba proudly notes that “it’s free & always will be”, but would have been quite impressive even if it had been a paid service. As mentioned before, it is by an Indian startup and specifically geared towards Indians, as evidenced by the lack of its SMS reminders in any other country, but would be almost equally as useful for citizens of other countries as well. If you need to keep track of your bills, <a href=\"http://www.billbaba.com/\">give BillBaba a try<\/a>.<\/p>\n<p><em>[Header image courtesy of <a href=\"http://www.shutterstock.com/gallery-85819p1.html\">szefei<\/a> / <a href=\"http://Shutterstock.com\">Shutterstock.com<\/a>.]<\/em><\/p>",
+         "link": "http://feedproxy.google.com/~r/TheNextWeb/~3/xGFPWb_lA8w/"
+      },
+      {
+         "post_id":"1",
+         "schema":"schema2",
+         "message":"First comment",
+         "author":"john",
+         "published_at":"Wed, 28 Sep 2011 07:55:01 +0000",
+         "deletable":true
+      },
+      {
+         "post_id":"2",
+         "schema":"schema2",
+         "message":"Second comment",
+         "author":"bry",
+         "published_at":"Wed, 28 Sep 2011 07:55:01 +0000",
+         "deletable":true
+      },
+      {
+         "post_id":"3",
+         "schema":"schema2",
+         "message":"Third comment",
+         "author":"lars",
+         "published_at":"Wed, 28 Sep 2011 07:55:01 +0000",
+         "deletable":true
+      }
+   ],
+   "paging": {}
+}

@@ -12,7 +12,8 @@
       {
          "id":"DataSource:Lokacije",
          "type":"ShoutEmDataSource",
-         "endpointUrl":"http://dl.dropbox.com/u/1028504/mockup_config/places_ds.json"
+         "endpointUrl":"http://dl.dropbox.com/u/1028504/mockup_config/places_ds.json",
+         "searchParam":"search"
       },
 
       {

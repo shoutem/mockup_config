@@ -7591,7 +7591,7 @@
          "realm":"None",
          "cache":false,
          "dataSource":{
-            "$ref":"ShoutEmDataSource:Lokacije"
+            "$ref":"DataSource:Lokacije"
          },
          "bindings":{
             "leadMapLatitude":"place.latitude",

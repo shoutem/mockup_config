@@ -7598,7 +7598,7 @@
                "type":"Custom",
                "items":[
                   {
-                     "type":"NewsDetailsTitle",
+                     "type":"NewsDetailsTitleItem",
                      "schema_uuid":"schema1",
                      "style":"Default",
                      "bindings":{

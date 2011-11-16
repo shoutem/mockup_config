@@ -7606,7 +7606,7 @@
                "value":"bundle://place_title_icon.png"
             },
             "infoBarType":{
-               "value":"OneSegmentsShort"
+               "value":"OneSegmentShort"
             },
             "info1Icon":{
                "value":"info_place_bright.png"

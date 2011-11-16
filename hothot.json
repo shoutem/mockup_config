@@ -7606,7 +7606,7 @@
                "value":"bundle://place_title_icon.png"
             },
             "infoBarType":{
-               "value":"OneSegmentShort"
+               "value":"TwoSegmentsShort"
             },
             "info1Icon":{
                "value":"info_place_bright.png"
@@ -7616,12 +7616,12 @@
                   "type":"DistanceConverter",
                   "parameters":{
                      "latitude":{
-                        "path":"place.latitude"
+                        "path":"geo.coordinates[0]"
                      },
                      "longitude":{
-                        "path":"place.longitude"
+                        "path":"geo.coordinates[1]"
                      },
-                     "name":{"path":"place.name"},
+                     "placeName":{"path":"name"},
                      "hideDirection":true
                   }
                }

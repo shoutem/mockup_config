@@ -7587,12 +7587,46 @@
 
       {
          "id":"DetailsPage:Lokacije",
-         "type":"DetailsPage",
+         "type":"CustomPage",
          "realm":"None",
          "cache":false,
          "dataSource":{
             "$ref":"DataSource:Lokacije"
          },
+         "sections":[
+            {
+               "type":"Custom",
+               "items":[
+                  {
+                     "type":"NewsDetailsTitle",
+                     "schema":"schema1",
+                     "style":"Default",
+                     "bindings":{
+                        "title":{"path":"name"},
+                        "infoBarType":{"value":"TwoSegmentsShort"},
+                        "info1Icon":{
+                           "value":"info_place_bright.png"
+                        },
+                        "info1Text":{
+                           "converter":{
+                              "type":"DistanceConverter",
+                              "parameters":{
+                                 "latitude":{
+                                    "path":"geo.coordinates[0]"
+                                 },
+                                 "longitude":{
+                                    "path":"geo.coordinates[1]"
+                                 },
+                                 "placeName":{"path":"address"},
+                                 "hideDirection":false
+                              }
+                           }
+                        }
+                     }
+                  }
+               ]
+            }            
+         ],
          "bindings":{
             "leadMapLatitude":{"path":"geo.coordinates[0]"},
             "leadMapLongitude":{"path":"geo.coordinates[1]"},

@@ -7639,7 +7639,8 @@
                      "schema_uuid":"schema1",
                      "style":"Default",
                      "bindings":{
-                        "button1Text":{"value":"CheckIn"}
+                        "button1Title":{"value":"CheckIn"},
+                        "button1Id":{"value":"btn1"}
                      },
                      "buttonAction":{
                         "type":"OpenPageAction",

@@ -7594,8 +7594,8 @@
             "$ref":"DataSource:Lokacije"
          },
          "bindings":{
-            "leadMapLatitude":"place.latitude",
-            "leadMapLongitude":"place.longitude",
+            "leadMapLatitude":"geo.coordinates[0]",
+            "leadMapLongitude":"geo.coordinates[1]",
             "title":{
                "path":"name"
             },
@@ -7621,7 +7621,7 @@
                      "longitude":{
                         "path":"geo.coordinates[1]"
                      },
-                     "placeName":{"path":"name"},
+                     "placeName":{"path":"address"},
                      "hideDirection":false
                   }
                }

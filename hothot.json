@@ -436,7 +436,18 @@
                      }
                   }
                },
-               "showSeparator":{"value":true}
+               "showSeparator":{"value":true},
+               "action":{
+                  "type":"OpenPageAction",
+                  "page":{
+                     "$ref":"DetailsPage:Lokacije"
+                  },
+                  "parameters":{
+                     "itemId":{
+                        "path":"post_id"
+                     }
+                  }
+               }
             }
          }
          ]
@@ -7562,6 +7573,125 @@
 
          ]
       },
+
+
+
+
+
+
+
+
+
+
+
+
+      {
+         "id":"DetailsPage:Lokacije",
+         "type":"DetailsPage",
+         "realm":"None",
+         "cache":false,
+         "dataSource":{
+            "$ref":"ShoutEmDataSource:Lokacije"
+         },
+         "bindings":{
+            "leadMapLatitude":"place.latitude",
+            "leadMapLongitude":"place.longitude",
+            "title":{
+               "path":"name"
+            },
+            "body":{
+               "path":"description"
+            },
+            "iconUrl":{
+               "value":"bundle://place_title_icon.png"
+            },
+            "infoBarType":{
+               "value":"OneSegmentsShort"
+            },
+            "info1Icon":{
+               "value":"info_place_bright.png"
+            },
+            "info1Text":{
+               "converter":{
+                  "type":"DistanceConverter",
+                  "parameters":{
+                     "latitude":{
+                        "path":"place.latitude"
+                     },
+                     "longitude":{
+                        "path":"place.longitude"
+                     },
+                     "name":{"path":"place.name"},
+                     "hideDirection":true
+                  }
+               }
+            }
+         },
+         "items":[
+            {
+               "type":"CommentItem",
+               "schema":"18062F18-075C-49E2-9D2C-CB96B2495BB4",
+               "schema_uuid":"18062F18-075C-49E2-9D2C-CB96B2495BB4",
+               "style":"Default",
+               "bindings":{
+                  "message":{
+                     "path":"message"
+                  },
+                  "authorImageUrl":{
+                     "path":"author_image_url"
+                  },
+                  "author":{
+                     "path":"author"
+                  },
+                  "publishedDate":{
+                     "path":"published_at"
+                  },
+                  "deletable":{
+                     "path":"deletable"
+                  },
+                  "comment_id":{
+                     "path":"comment_id"
+                  }
+               }
+            }
+         ],
+         "customItems":[
+            {
+               "type":"SmallDisclosureItem",
+               "schema":"18062F18-075C-49E2-9D2C-CB96B2495BB4",
+               "schema_uuid":"18062F18-075C-49E2-9D2C-CB96B2495BB4",
+               "style":"Default",
+               "bindings":{
+                  "title":{
+                     "path":"place.name"
+                  },
+                  "visibilityBinding":{
+                     "path":"place.id"
+                  }
+               },
+               "action":null
+            }
+         ]
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       {
          "id":"DetailsPage:Term:000000000000000370",
          "type":"DetailsPage",

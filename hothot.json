@@ -7622,7 +7622,7 @@
                         "path":"geo.coordinates[1]"
                      },
                      "placeName":{"path":"name"},
-                     "hideDirection":true
+                     "hideDirection":false
                   }
                }
             }

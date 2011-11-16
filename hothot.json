@@ -436,16 +436,16 @@
                      }
                   }
                },
-               "showSeparator":{"value":true},
-               "action":{
-                  "type":"OpenPageAction",
-                  "page":{
-                     "$ref":"DetailsPage:Lokacije"
-                  },
-                  "parameters":{
-                     "itemId":{
-                        "path":"post_id"
-                     }
+               "showSeparator":{"value":true}
+            },
+            "action":{
+               "type":"OpenPageAction",
+               "page":{
+                  "$ref":"DetailsPage:Lokacije"
+               },
+               "parameters":{
+                  "itemId":{
+                     "path":"post_id"
                   }
                }
             }

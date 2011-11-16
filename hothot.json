@@ -7633,6 +7633,20 @@
                         "longitude":{"path":"geo.coordinates[1]"},
                         "name":{"path":"name"}
                      }
+                  },
+                  {
+                     "type":"MultiButtonItem",
+                     "schema_uuid":"schema1",
+                     "style":"Default",
+                     "bindings":{
+                        "button1Text":{"value":"CheckIn"}
+                     },
+                     "buttonAction":{
+                        "type":"OpenPageAction",
+                        "page":{
+                           "$ref":"NewShoutPage"
+                        }
+                     }
                   }
                ]
             }            

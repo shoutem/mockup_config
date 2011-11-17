@@ -7645,7 +7645,7 @@
                      "buttonAction":{
                         "type":"OpenPageAction",
                         "page":{
-                           "$ref":"NewShoutPage"
+                           "type":"CheckInPage"
                         }
                      }
                   }

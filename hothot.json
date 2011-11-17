@@ -7625,16 +7625,6 @@
                      }
                   },
                   {
-                     "type":"MapItem",
-                     "schema_uuid":"schema1",
-                     "style":"detailsMap",
-                     "bindings":{
-                        "latitude":{"path":"geo.coordinates[0]"},
-                        "longitude":{"path":"geo.coordinates[1]"},
-                        "name":{"path":"name"}
-                     }
-                  },
-                  {
                      "type":"MultiButtonItem",
                      "schema_uuid":"schema1",
                      "style":"Default",
@@ -7647,6 +7637,24 @@
                         "page":{
                            "type":"CheckInPage"
                         }
+                     }
+                  },
+                  {
+                     "type":"MapItem",
+                     "schema_uuid":"schema1",
+                     "style":"detailsMap",
+                     "bindings":{
+                        "latitude":{"path":"geo.coordinates[0]"},
+                        "longitude":{"path":"geo.coordinates[1]"},
+                        "name":{"path":"name"}
+                     }
+                  },
+                  {
+                     "type":"WebItem",
+                     "schema_uuid":"schema1",
+                     "style":"Default",
+                     "bindings":{
+                        "html":{"path":"description"}
                      }
                   }
                ]

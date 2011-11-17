@@ -7655,7 +7655,7 @@
                      "schema_uuid":"schema1",
                      "style":"Default",
                      "bindings":{
-                        "html":{"path":"description"},
+                        "html":{"path":"info"},
                         "visibilityBinding":{"path":"description"}
                      }
                   },
@@ -7730,7 +7730,35 @@
                            }
                         }
                      }
+                  },
+                  {
+                     "type":"SmallDisclosureItem",
+                     "schema_uuid":"schema1",
+                     "style":"Default",
+                     "bindings":{
+                        "title":{"value":"View Tweets nearby"}
+                     },
+                     "action":{
+                        "type":"OpenPageAction",
+                        "page":{
+                           "type":"WebPage",
+                           "cache":false
+                        },
+                        "parameters":{
+                           "url":{
+                              "converter":{
+                                 "type":"StringFormatterConverter",
+                                 "parameters":{
+                                    "formatString":"https://mobile.twitter.com/#!/search/geocode:%@,%@,1mi",
+                                    "param1":{"path":"geo.coordinates[0]"},
+                                    "param2":{"path":"geo.coordinates[1]"}
+                                 }
+                              }
+                           }
+                        }
+                     }
                   }
+
                ]
             }            
          ],

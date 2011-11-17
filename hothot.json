@@ -7635,7 +7635,8 @@
                      "buttonAction":{
                         "type":"OpenPageAction",
                         "page":{
-                           "type":"CheckInPage"
+                           "type":"CheckInPage",
+                           "realm":"ShoutEm"
                         }
                      }
                   },
@@ -7665,6 +7666,13 @@
                      "bindings":{
                         "title":{"value":"Directions"},
                         "iconName":{"value":"bundle://icon_discover.png"}
+                     },
+                     "action":{
+                        "type":"ShowRouteAction",
+                        "parameters":{
+                           "endLatitude":{"path":"geo.coordinates[0]"},
+                           "endLongitude":{"path":"geo.coordinates[1]"}
+                        }
                      }
                   },
                   {

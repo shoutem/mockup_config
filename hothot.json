@@ -7702,6 +7702,34 @@
                         "title":{"value":"Visit website"},
                         "iconName":{"value":"bundle://icon_discover.png"}
                      }
+                  },
+                  {
+                     "type":"SmallDisclosureItem",
+                     "schema_uuid":"schema1",
+                     "style":"Default",
+                     "bindings":{
+                        "title":{"value":"View on Yelp"}                        
+                     },
+                     "action":{
+                        "type":"OpenPageAction",
+                        "page":{
+                           "type":"WebPage",
+                           "cache":false
+                        },
+                        "parameters":{
+                           "url":{
+                              "converter":{
+                                 "type":"StringFormatterConverter",
+                                 "parameters":{
+                                    "formatString":"http://lite.yelp.com/search?find_desc=%@&find_loc=%@,%%20%@&find_submit=Search",
+                                    "param1":{"path":"name"},
+                                    "param2":{"path":"city"},
+                                    "param3":{"path":"country"}
+                                 }
+                              }
+                           }
+                        }
+                     }
                   }
                ]
             }            

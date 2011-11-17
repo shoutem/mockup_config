@@ -7657,6 +7657,15 @@
                         "html":{"path":"description"},
                         "visibilityBinding":{"path":"description"}
                      }
+                  },
+                  {
+                     "type":"SmallDisclosureItem",
+                     "schema_uuid":"schema1",
+                     "style":"Default",
+                     "bindings":{
+                        "title":{"value":"Directions"},
+                        "iconName":"bundle://icon_discover.png"
+                     }
                   }
                ]
             }            

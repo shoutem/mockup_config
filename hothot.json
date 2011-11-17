@@ -7664,7 +7664,35 @@
                      "style":"Default",
                      "bindings":{
                         "title":{"value":"Directions"},
-                        "iconName":"bundle://icon_discover.png"
+                        "iconName":{"value":"bundle://icon_discover.png"}
+                     }
+                  },
+                  {
+                     "type":"SeparatorItem",
+                     "schema_uuid":"schema1",
+                     "style":"separator"
+                  },
+                  {
+                     "type":"SmallDisclosureItem",
+                     "schema_uuid":"schema1",
+                     "style":"Default",
+                     "bindings":{
+                        "title":{"value":"Call"},
+                        "iconName":{"value":"bundle://icon_discover.png"}
+                     }
+                  },
+                  {
+                     "type":"SeparatorItem",
+                     "schema_uuid":"schema1",
+                     "style":"separatorThin"
+                  },
+                  {
+                     "type":"SmallDisclosureItem",
+                     "schema_uuid":"schema1",
+                     "style":"Default",
+                     "bindings":{
+                        "title":{"value":"Visit website"},
+                        "iconName":{"value":"bundle://icon_discover.png"}
                      }
                   }
                ]

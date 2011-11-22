@@ -7792,8 +7792,12 @@
                      "type":"SeparatorItem",
                      "schema_uuid":"schema1",
                      "style":"separatorEmpty"
+                  },
+                  {
+                     "type":"SeparatorItem",
+                     "schema_uuid":"schema1",
+                     "style":"separatorEmpty"
                   }
-
                ]
             }            
          ],

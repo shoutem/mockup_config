@@ -7640,7 +7640,7 @@
                            "noCache":true
                         },
                         "parameters":{
-                           "shoutType":{"value":"ShoutType_Checkin"},
+                           "shoutType":{"value":"ShoutType_CheckIn"},
                            "placeId":{"path":"post_id"}
                         }
                      }

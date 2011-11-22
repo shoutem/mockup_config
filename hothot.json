@@ -7636,7 +7636,8 @@
                         "type":"OpenPageAction",
                         "page":{
                            "type":"CheckInPage",
-                           "realm":"ShoutEm"
+                           "realm":"ShoutEm",
+                           "noCache":true
                         }
                      }
                   },

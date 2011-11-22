@@ -7667,7 +7667,7 @@
                   {
                      "type":"SmallDisclosureItem",
                      "schema_uuid":"schema1",
-                     "style":"Default",
+                     "style":"detailsDisclosure",
                      "bindings":{
                         "title":{"value":"Directions"},
                         "iconName":{"value":"bundle://icon_discover.png"}
@@ -7683,7 +7683,7 @@
                   {
                      "type":"SeparatorItem",
                      "schema_uuid":"schema1",
-                     "style":"separator"
+                     "style":"separatorEmpty"
                   },
                   {
                      "type":"SmallDisclosureItem",

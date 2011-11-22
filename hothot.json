@@ -7789,10 +7789,7 @@
                   {
                      "type":"SeparatorItem",
                      "schema_uuid":"schema1",
-                     "style":"separatorEmpty",
-                     "bindings":{
-                        "visibilityBinding":{"path":"websiteUrl"}
-                     }
+                     "style":"separatorEmpty"
                   }
 
                ]

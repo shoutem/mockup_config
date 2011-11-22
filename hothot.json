@@ -7638,6 +7638,10 @@
                            "type":"CheckInPage",
                            "realm":"ShoutEm",
                            "noCache":true
+                        },
+                        "parameters":{
+                           "shoutType":{"value":"ShoutType_Checkin"},
+                           "placeId":{"path":"post_id"}
                         }
                      }
                   },

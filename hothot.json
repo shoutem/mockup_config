@@ -7635,7 +7635,7 @@
                      "buttonAction":{
                         "type":"OpenPageAction",
                         "page":{
-                           "type":"CheckInPage",
+                           "type":"ShoutAddPage",
                            "realm":"ShoutEm",
                            "noCache":true
                         },

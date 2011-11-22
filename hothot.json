@@ -7675,7 +7675,7 @@
                      "style":"detailsDisclosure",
                      "bindings":{
                         "title":{"value":"Directions"},
-                        "iconName":{"value":"bundle://icon_discover.png"}
+                        "iconName":{"value":"bundle://btn_icon_directions.png"}
                      },
                      "action":{
                         "type":"ShowRouteAction",
@@ -7696,7 +7696,7 @@
                      "style":"detailsDisclosure",
                      "bindings":{
                         "title":{"value":"Call"},
-                        "iconName":{"value":"bundle://icon_discover.png"},
+                        "iconName":{"value":"bundle://btn_icon_call.png"},
                         "visibilityBinding":{"path":"phoneNumber"}
                      }
                   },
@@ -7714,7 +7714,7 @@
                      "style":"detailsDisclosure",
                      "bindings":{
                         "title":{"value":"Visit website"},
-                        "iconName":{"value":"bundle://icon_discover.png"},
+                        "iconName":{"value":"bundle://btn_icon_website.png"},
                         "visibilityBinding":{"path":"websiteUrl"}
                      }
                   },
@@ -7731,7 +7731,8 @@
                      "schema_uuid":"schema1",
                      "style":"detailsDisclosure",
                      "bindings":{
-                        "title":{"value":"View on Yelp"}                        
+                        "title":{"value":"View on Yelp"},
+                        "iconName":{"value":"bundle://btn_icon_yelp.png"}
                      },
                      "action":{
                         "type":"OpenPageAction",
@@ -7764,7 +7765,8 @@
                      "schema_uuid":"schema1",
                      "style":"detailsDisclosure",
                      "bindings":{
-                        "title":{"value":"View Tweets nearby"}
+                        "title":{"value":"View Tweets nearby"},
+                        "iconName":{"value":"btn_icon_twitter.png"}
                      },
                      "action":{
                         "type":"OpenPageAction",

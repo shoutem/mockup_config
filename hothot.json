@@ -7661,8 +7661,13 @@
                      "style":"Default",
                      "bindings":{
                         "html":{"path":"info"},
-                        "visibilityBinding":{"path":"description"}
+                        "visibilityBinding":{"path":"info"}
                      }
+                  },
+                  {
+                     "type":"SeparatorItem",
+                     "schema_uuid":"schema1",
+                     "style":"separatorEmpty"
                   },
                   {
                      "type":"SmallDisclosureItem",
@@ -7688,30 +7693,43 @@
                   {
                      "type":"SmallDisclosureItem",
                      "schema_uuid":"schema1",
-                     "style":"Default",
+                     "style":"detailsDisclosure",
                      "bindings":{
                         "title":{"value":"Call"},
-                        "iconName":{"value":"bundle://icon_discover.png"}
+                        "iconName":{"value":"bundle://icon_discover.png"},
+                        "visibilityBinding":{"path":"phoneNumber"}
                      }
                   },
                   {
                      "type":"SeparatorItem",
                      "schema_uuid":"schema1",
-                     "style":"separatorThin"
-                  },
-                  {
-                     "type":"SmallDisclosureItem",
-                     "schema_uuid":"schema1",
-                     "style":"Default",
+                     "style":"separatorCellGroup",
                      "bindings":{
-                        "title":{"value":"Visit website"},
-                        "iconName":{"value":"bundle://icon_discover.png"}
+                        "visibilityBinding":{"path":"phoneNumber"}
                      }
                   },
                   {
                      "type":"SmallDisclosureItem",
                      "schema_uuid":"schema1",
-                     "style":"Default",
+                     "style":"detailsDisclosure",
+                     "bindings":{
+                        "title":{"value":"Visit website"},
+                        "iconName":{"value":"bundle://icon_discover.png"},
+                        "visibilityBinding":{"path":"websiteUrl"}
+                     }
+                  },
+                  {
+                     "type":"SeparatorItem",
+                     "schema_uuid":"schema1",
+                     "style":"separatorEmpty",
+                     "bindings":{
+                        "visibilityBinding":{"path":"websiteUrl"}
+                     }
+                  },
+                  {
+                     "type":"SmallDisclosureItem",
+                     "schema_uuid":"schema1",
+                     "style":"detailsDisclosure",
                      "bindings":{
                         "title":{"value":"View on Yelp"}                        
                      },
@@ -7737,9 +7755,14 @@
                      }
                   },
                   {
+                     "type":"SeparatorItem",
+                     "schema_uuid":"schema1",
+                     "style":"separatorCellGroup"
+                  },
+                  {
                      "type":"SmallDisclosureItem",
                      "schema_uuid":"schema1",
-                     "style":"Default",
+                     "style":"detailsDisclosure",
                      "bindings":{
                         "title":{"value":"View Tweets nearby"}
                      },

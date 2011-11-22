@@ -7766,7 +7766,7 @@
                      "style":"detailsDisclosure",
                      "bindings":{
                         "title":{"value":"View Tweets nearby"},
-                        "iconName":{"value":"btn_icon_twitter.png"}
+                        "iconName":{"value":"bundle://btn_icon_twitter.png"}
                      },
                      "action":{
                         "type":"OpenPageAction",

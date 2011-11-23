@@ -7779,7 +7779,7 @@
                               "converter":{
                                  "type":"StringFormatterConverter",
                                  "parameters":{
-                                    "formatString":"https://mobile.twitter.com/#!/search/geocode:%@,%@,1mi",
+                                    "formatString":"https://mobile.twitter.com/search/geocode:%@,%@,1mi",
                                     "param1":{"path":"geo.coordinates[0]"},
                                     "param2":{"path":"geo.coordinates[1]"}
                                  }

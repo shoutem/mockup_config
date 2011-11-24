@@ -7633,7 +7633,7 @@
                            "converter":{
                               "type":"LocalizedStringConverter",
                               "parameters":{
-                                 "key":"locCheckInButtonNormal"
+                                 "key":"locCheckInButtonNormal2"
                               }
                            }
                         },

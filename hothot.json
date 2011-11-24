@@ -7653,6 +7653,16 @@
                         "latitude":{"path":"geo.coordinates[0]"},
                         "longitude":{"path":"geo.coordinates[1]"},
                         "name":{"path":"name"}
+                     },
+                     "action":{
+                        "type":"OpenPageAction",
+                        "page":{
+                           "type":"WebPage",
+                           "cache":false
+                        },
+                        "parameters":{
+                           "url":{"value":"www.google.com"}
+                        }
                      }
                   },
                   {

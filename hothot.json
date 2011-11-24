@@ -7712,7 +7712,14 @@
                      "schema_uuid":"schema1",
                      "style":"detailsDisclosure",
                      "bindings":{
-                        "title":{"value":"Directions"},
+                        "title":{
+                           "converter":{
+                              "type":"LocalizedStringConverter",
+                              "parameters":{
+                                 "key":"locRouteToHere"
+                              }
+                           }
+                        },
                         "iconName":{"value":"bundle://btn_icon_directions.png"}
                      },
                      "action":{
@@ -7733,7 +7740,14 @@
                      "schema_uuid":"schema1",
                      "style":"detailsDisclosure",
                      "bindings":{
-                        "title":{"value":"Call"},
+                        "title":{
+                           "converter":{
+                              "type":"LocalizedStringConverter",
+                              "parameters":{
+                                 "key":"locCall"
+                              }
+                           }
+                        },
                         "iconName":{"value":"bundle://btn_icon_call.png"},
                         "visibilityBinding":{"path":"phoneNumber"}
                      },
@@ -7769,7 +7783,14 @@
                      "schema_uuid":"schema1",
                      "style":"detailsDisclosure",
                      "bindings":{
-                        "title":{"value":"Visit website"},
+                        "title":{
+                           "converter":{
+                              "type":"LocalizedStringConverter",
+                              "parameters":{
+                                 "key":"locVisitWeb"
+                              }
+                           }
+                        },
                         "iconName":{"value":"bundle://btn_icon_website.png"},
                         "visibilityBinding":{"path":"websiteUrl"}
                      },
@@ -7797,7 +7818,14 @@
                      "schema_uuid":"schema1",
                      "style":"detailsDisclosure",
                      "bindings":{
-                        "title":{"value":"View on Yelp"},
+                        "title":{
+                           "converter":{
+                              "type":"LocalizedStringConverter",
+                              "parameters":{
+                                 "key":"locYelpButtonNormal"
+                              }
+                           }
+                        },
                         "iconName":{"value":"bundle://btn_icon_yelp.png"}
                      },
                      "action":{
@@ -7831,7 +7859,14 @@
                      "schema_uuid":"schema1",
                      "style":"detailsDisclosure",
                      "bindings":{
-                        "title":{"value":"View Tweets nearby"},
+                        "title":{
+                           "converter":{
+                              "type":"LocalizedStringConverter",
+                              "parameters":{
+                                 "key":"locTweetsNearbyButtonNormal"
+                              }
+                           }
+                        },
                         "iconName":{"value":"bundle://btn_icon_twitter.png"}
                      },
                      "action":{

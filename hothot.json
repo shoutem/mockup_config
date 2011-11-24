@@ -7659,11 +7659,11 @@
                      "action":{
                         "type":"OpenPageAction",
                         "page":{
-                           "type":"WebPage",
+                           "type":"MapPage",
                            "cache":false
                         },
                         "parameters":{
-                           "url":{"value":"www.google.com"}
+                           "itemId":{"path":"post_id"}
                         }
                      }
                   },

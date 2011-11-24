@@ -7698,6 +7698,24 @@
                         "title":{"value":"Call"},
                         "iconName":{"value":"bundle://btn_icon_call.png"},
                         "visibilityBinding":{"path":"phoneNumber"}
+                     },
+                     "action":{
+                        "type":"OpenPageAction",
+                        "page":{
+                           "type":"ExternalPage",
+                           "cache":false
+                        },
+                        "parameters":{
+                           "url":{
+                              "converter":{
+                                 "type":"StringFormatterConverter",
+                                 "parameters":{
+                                    "formatString":"tel://%@",
+                                    "param1":{"path":"phoneNumber"}
+                                 }
+                              }
+                           }
+                        }
                      }
                   },
                   {

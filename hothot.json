@@ -7627,7 +7627,7 @@
                   {
                      "type":"MultiButtonItem",
                      "schema_uuid":"schema1",
-                     "style":"Default",
+                     "style":"placeDetails",
                      "bindings":{
                         "button1Title":{"value":"CheckIn"},
                         "button1Id":{"value":"btn1"}

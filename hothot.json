@@ -7661,7 +7661,25 @@
                         "page":{
                            "type":"MapPage",
                            "dataSource":{"$ref":"DataSource:Lokacije"},
-                           "cache":false
+                           "cache":false,
+                           "items":[
+                              {
+                                 "type":"NewsItem",
+                                 "schema_uuid":"A6E3B79E-20AE-4ECA-8309-228167D897BE",
+                                 "style":"Default",
+                                 "bindings":{
+                                    "latitude":{
+                                       "path":"geo.coordinates[0]"
+                                    },
+                                    "longitude":{
+                                       "path":"geo.coordinates[1]"
+                                    },
+                                    "title":{
+                                       "path":"name"
+                                    }
+                                 }
+                              }
+                           ]
                         },
                         "parameters":{
                            "itemId":{"path":"[0].post_id"}

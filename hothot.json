@@ -7734,6 +7734,16 @@
                         "title":{"value":"Visit website"},
                         "iconName":{"value":"bundle://btn_icon_website.png"},
                         "visibilityBinding":{"path":"websiteUrl"}
+                     },
+                     "action":{
+                        "type":"OpenPageAction",
+                        "page":{
+                           "type":"WebPage",
+                           "cache":false
+                        },
+                        "parameters":{
+                           "url":{"path":"websiteUrl"}
+                        }
                      }
                   },
                   {

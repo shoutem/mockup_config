@@ -7660,6 +7660,7 @@
                         "type":"OpenPageAction",
                         "page":{
                            "type":"MapPage",
+                           "dataSource":{"$ref":"DataSource:Lokacije"},
                            "cache":false
                         },
                         "parameters":{

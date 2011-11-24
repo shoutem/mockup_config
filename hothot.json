@@ -7663,7 +7663,7 @@
                            "cache":false
                         },
                         "parameters":{
-                           "itemId":{"path":"post_id"}
+                           "itemId":{"path":"[0].post_id"}
                         }
                      }
                   },

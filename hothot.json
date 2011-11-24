@@ -7652,7 +7652,9 @@
                      "bindings":{
                         "latitude":{"path":"geo.coordinates[0]"},
                         "longitude":{"path":"geo.coordinates[1]"},
-                        "name":{"path":"name"}
+                        "name":{"path":"name"},
+                        "interactive":false,
+                        "usesCurrentLocation":false
                      },
                      "action":{
                         "type":"OpenPageAction",

@@ -7629,7 +7629,14 @@
                      "schema_uuid":"schema1",
                      "style":"placeDetails",
                      "bindings":{
-                        "button1Title":{"value":"Check in here"},
+                        "button1Title":{
+                           "converter":{
+                              "type":"LocalizedStringConverter",
+                              "parameters":{
+                                 "key":"locCheckInButtonNormal"
+                              }
+                           }
+                        },
                         "button1Id":{"value":"btn1"}
                      },
                      "buttonAction":{
